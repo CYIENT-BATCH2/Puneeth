@@ -1,0 +1,5 @@
+Consider a character input from a user and print if it is a vowel or consonant. 
+1)Read the character alphabetic from the user
+2)check the character read from user is vowel or consonant using the if condition statement
+3)if charcter is equal to a,e,i,o,u those chacaters are vowels remainings are consonant. 
+4)print statement
