@@ -1,0 +1,10 @@
+Problem - A message ID is required to send data via CAN communication between ECU’s. Accept a random 2-digit message ID from the user to send data. 
+Keep in mind that the given ECU only accepts binary form of the message ID.
+Write a program to convert the 2-digit ID to binary form
+
+
+1.Start 
+2.Read the 2 digit Id from the user as user input
+3.using the bitwise operation of right shift convert the digit form number into binary form.
+4.print the binary form value
+5.Stop
