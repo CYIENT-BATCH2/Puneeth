@@ -1,0 +1,9 @@
+Students with roll numbers 1-9 are seated in ascending order in an examination hall. There has been a slight mistake in their seating arrangement where two consecutive roll numbers have been swapped. 
+Choose these two consecutive numbers as per your choice and swap them back in their right places according to ascending order.
+
+1.Start
+2.Read the roll numbers 1-9 from user
+3.check the seat number are all ascending order or not 
+4.if not have to do sorting make it ascending order
+5.print the ascending order seat numbers.
+6.Stop
