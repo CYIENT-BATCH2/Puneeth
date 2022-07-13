@@ -1,0 +1,9 @@
+Problem - Find whether a given 10-digit number is palindrome or not. 
+(HINT: Any number is said to be a palindrome if the original number and the reverse of the original number are the same.)
+1.Start
+2.read a 10 digit number from the user as a input
+3.reverse the input number using the logic
+4.if the reversed number and input number equal then it is palindrome number 
+6.else not a palindrome number 
+7.stopS
+ 
