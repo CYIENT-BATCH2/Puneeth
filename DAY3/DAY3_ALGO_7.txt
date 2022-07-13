@@ -1,0 +1,10 @@
+Problem - Write program to calculate the age of a person based on year, month as i/p
+
+Algorithm 
+
+1.Start
+2.Declare the variables
+3.Read the persons birth year and month as a input
+4.calculate age of person based on given input year with present year and month.
+5.print the age
+6.Stop
