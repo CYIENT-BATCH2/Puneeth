@@ -1,0 +1,10 @@
+Problem - Write a program to reverse a 3-digit number which is entered from keyboard. 
+
+Algorithm 
+
+1.Start
+2.Declare the required variables.
+2.Read the 3 digits input number from the user as a input value
+3.reverse the digits of number using % / operator
+4.Print the reverse digit number 
+5.Stop
