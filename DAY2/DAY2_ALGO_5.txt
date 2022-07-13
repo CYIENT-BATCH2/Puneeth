@@ -1,0 +1,7 @@
+Problem - A message is encoded in the form of numbers and sent to you. Write a program to decode the message. (HINT: A=1, B=2, … so on)
+
+1.Start
+2.read the encoded form number from the user as a input 
+3.decode the encoding form number into the character 
+4.print the decoding form.
+5.Stop 
