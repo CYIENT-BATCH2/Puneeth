@@ -1,0 +1,7 @@
+Problem - Write a program to convert Celsius form of temperature into Fahrenheit and vice versa.
+
+1.Start.
+2.Read the celsius form of temperature from the user as a input.
+3.calculate celsius form to Fahrenheit form using a formula 
+4.print the Fahrenheit form of temperature 
+5.stop
