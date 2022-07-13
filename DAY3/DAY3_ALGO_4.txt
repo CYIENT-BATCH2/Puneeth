@@ -1,0 +1,10 @@
+Problem - Convert decimal number 204 to hex value, binary value and print the same
+
+Algorithm
+
+1.Start
+2.Declare required varibale
+3.Initialize decimal number to number variable 
+4.find the hexa value and binary value
+5.print the hexa and binary value
+6.Stop
