@@ -1,0 +1,9 @@
+Question - Implement basic logic gates using C (AND, OR, NOT). Consider the inputs: 0,1 ,0,1, 1,0, 1,1.
+
+1.Start.
+2.Read the inputs for the basic logic gates operation.
+3.using the user inputs implement logic gates AND OR NOT
+4.when the both inputs high output will be high - for AND Gate
+5.when the any one inputs high output will be high - for OR Gate
+6.Compliment of inputs 1 to 0,1 to 0 - Not Gate
+7.Stop
