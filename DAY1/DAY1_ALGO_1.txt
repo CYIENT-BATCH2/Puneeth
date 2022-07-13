@@ -1,0 +1,7 @@
+We'll say a number is special if it is a multiple of 11 or if it is one more than a multiple of 11. 
+Print “SPECIAL” if the given non-negative number is special. Use the % "mod" operator. 
+
+        1) Take as the user input from the user.
+        2) if the number get that remainder is equality to zero or one.
+        3) Then,it will print as "special".
+        4) if that condition is false means it will print as "not special".
