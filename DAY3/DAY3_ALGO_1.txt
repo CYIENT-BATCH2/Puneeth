@@ -1,0 +1,15 @@
+Problem -Write a program to achieve below statements.
+Collect 15 elements (8 integers, 7 float) as i/p from user. 
+Calculate and Print the sum, average and mean of integers
+Calculate and Print the sum, average of all float values
+Divide sum in statement ‘b’ with statement ‘c’ sum and print the value.
+Divide average in statement ‘b’ with statement ‘c’ average and print the value.
+Convert all 7 float values to integers and print them.
+
+1.Start
+2.Read the 15 elements from user as a input
+3.calculate the sum , average, and mean for user inputs integer value using the formulas
+4.calculate sum and average for user inputs float values using the formulas
+5.calculate sum of statement of b with statement c and print the value
+6.convert all float values to integer 
+7.Stop
