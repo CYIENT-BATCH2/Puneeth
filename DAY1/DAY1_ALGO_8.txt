@@ -1,0 +1,6 @@
+Problem - Consider a character input and find its ASCII value.
+
+1.Start.
+2.Read a character from the user.
+3.print the ASCII value of the equivalent character.
+4.Stop. 
