@@ -1,8 +1,0 @@
-Problem - It was Raj's first day at school. His teacher asked the students to meet every other student in the class and to introduce themselves. The teacher asked them to give handshakes when they meet each other.
-If there are ‘n’ number of students in the class then find the total number of handshakes made by the students.
-
-1.Start
-2.Read the 'n' number of students from the user
-3.calculate the number of handshakers in the class using the formula (students * (students - 1)) / 2
-4.Print the numbers of handshakers
-5.Stop
