@@ -1,0 +1,7 @@
+Problem - Consider the phone number of a person as user input and find the sum of its digits.
+
+1.Start
+2.Read the person phone number from the user as a input
+3.take each digit from the number % 10 and add it ,update the number with / 10, its has to continue untill number become zero.
+4.print the sum of digits 
+5.Stop
