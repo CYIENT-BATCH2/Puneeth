@@ -1,0 +1,10 @@
+Question:  5 balls are numbered with random 1-digit number each. Assign these numbers using user input.
+ Print whether each ball is assigned odd or even number.
+
+1.Start
+2.Declare 5 balls names 
+3.read the 5 balls 1 digit number to each balls
+4.check the numbered ball digit is even or odd
+5.if digit % 2 == 0 then its even numbered ball
+6.Else its odd numbered ball
+7.stop
