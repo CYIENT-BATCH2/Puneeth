@@ -1,0 +1,10 @@
+Problem - Write program to accept hex value as i/p and right shift bit value also as i/p and print the value after doing the hex right shift
+
+Algorithm 
+
+1.Start
+2.Declare the variables 
+3.read the hex value and shift bit value from the user as a input
+4.shift the hex value by bits taken from user using bitwise operation
+5.print the shifted value 
+6.Stop
