@@ -1,0 +1,10 @@
+Problem - Write a program to calculate the sum of the first and the second last digit of a 5-digit number entered from the keyboard.
+
+Algorithm 
+1.Start
+2.Declare the required variable
+3.Read the number input from the user as a input
+4.find the first digit in the given number logic and last second digit.
+5.sum both the digits
+6.print the sum value 
+7.Stop
