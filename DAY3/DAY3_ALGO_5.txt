@@ -1,0 +1,8 @@
+//Right shift the value 0xFE by 3 bits and print the value
+Algorithm 
+
+1.Start
+2.Declare required variable with datatype
+3.using the right shift operation shift the 0xFE value by 3 bits 
+4.print the shifted value 
+5.Stop
