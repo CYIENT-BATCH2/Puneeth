@@ -1,0 +1,8 @@
+Problem - Find the number of leap years in the interval 1990-2022.
+
+1.start
+2.declare the required varible with suitable datatype
+3.initialize value 1990 and 2022 with taken variables
+4.find the leap year between taken range using % operator
+5.print the number of leap year and which are all
+6.stop
