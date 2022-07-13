@@ -1,0 +1,11 @@
+/*Take a 6-digit number as input from the user and reverse the number. 
+Make sure that the number does not include a ‘0’ in any of its digits.*/
+
+1.Start
+2.read the 6 digit from the user as a input
+3.using the if condition reverse the digit 
+4.first have to take the each digit using module % 10 operator 
+5.update the number (6 digit) value by / 10
+6.until if(num < 0) should repeat the task
+7.print the rerversed value and compare with input value it should be reversed 
+8.Stop 
