@@ -1,0 +1,6 @@
+Problem - Consider the weights of three people as user input. Find the heaviest among them and print it
+1.Start
+2.Read the three peoples weights from the user as input
+3.using ternary operator / if else condition find which one in heaviest.
+4.print the heaviest.
+5.Stop.
