@@ -1,0 +1,9 @@
+Problem - Kishore bought ‘n’ number of lottery tickets. His lucky number is 3 so he wants to separate all the tickets that have the number 3 in them. 
+Find how many such lucky tickets are found in the ‘n’ number of tickets purchased by Kishore.
+
+1.Start
+2.Read the 'n' number of lottery tickets from the user as a input
+3.find he which lottery number as a 3 number 
+4.if lottery number as a 3 then it consider as lucky lottery ticket and increase count value.
+5.print the count value once after the checking all lottery completed
+6.Stop
