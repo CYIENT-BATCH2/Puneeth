@@ -20,9 +20,9 @@ int main()
     unsigned long int num = 0x12345678, res = 0;
     printf("little Endian system number is  %x", num);
     res = big(num); //big function call
-    printf("\nConvert the little to BIG Endian %x",res ); //
-    
-}
+    printf("\nConvert the little to BIG Endian %x",res ); //print the output
+    return 0;
+ }
 int big(unsigned long  int  x) //function definition 
 {
     int num = 0; //variable declaration 
