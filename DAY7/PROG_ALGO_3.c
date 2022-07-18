@@ -50,4 +50,5 @@ int main() {
     {
         printf("\nThe bits CHS3, CHS2, CHS1, CHS0 bits of register ADCON0 is not 0x07");
     }
+    return 0;
 }
