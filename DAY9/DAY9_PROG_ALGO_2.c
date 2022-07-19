@@ -6,9 +6,13 @@ Output : Binary Representation of the CMCON value is the : 0 0 0 1 0 0 0 1
          Binary Representation of the ADCONO value is the : 0 0 1 1 0 0 0 1 
          Binary Representation of the CMCON value after the set  given bits : 1 1 0 1 1 0 0 1 
          
-Algorithm
+Algorithm 
 1.Start
-2.
+2.Declare the variables 
+3.Read the input from the user 
+4.depend upon the ADCONO bits value have to perform the SET to the bits of CMCON 
+5.Display the value 
+6.Stop
          
 */
 #include <stdio.h> //Header file
@@ -35,7 +39,7 @@ int main() {
        CMCON = CMCON | (1 << 3);
        CMCON = CMCON | (1 << 6);
        CMCON = CMCON | (1 << 7);
-       printf("\nBinary Representation of the CMCON value after the set given bits : ");
+       printf("\nBinary Representation of the CMCON value after the set to bit given bits : ");
       for(int i = 7; i >= 0; i--)
      {
         printf("%d ", (CMCON >> i) & 1);
@@ -43,6 +47,6 @@ int main() {
     }
     else //print the below statement when the bits value not equal to the 0x06;
     {
-        printf("\nThe bits CHS3, CHS2, CHS1 bits of register ADCON0 is not 0x06");
+        printf("\nThe bits CHS3, CHS2, CHS1 bits of register ADCON0 value is not equal to  0x06");
     }
 }
