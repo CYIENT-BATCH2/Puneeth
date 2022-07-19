@@ -25,7 +25,7 @@ int main() {
         printf("%d ", (G_Eng_EngineRpm_uint >> i) & 1);
     } 
     //using the bitwise operator storing the array elements accordingly bits value given in the question 
-    G_Msg_EngineInformation_Byte[0] =  (G_Eng_EngineRpm_uint & ((16-1) << 8)) >> 8;
+    G_Msg_EngineInformation_Byte[0] =  (G_Eng_EngineRpm_uint & ((16-1) << 9)) >> 9;
     G_Msg_EngineInformation_Byte[1] = (G_Eng_EngineRpm_uint & ((256-1) << 1)) >> 1;
     G_Msg_EngineInformation_Byte[2] = (G_Eng_EngineRpm_uint & 1) << 7;
     G_Msg_EngineInformation_Byte[3] = G_Eng_EngineTemperature_uchar;
@@ -56,7 +56,7 @@ int main() {
 }
 void EngineInformation(unsigned char eng_temp, unsigned int eng_rpm, unsigned char eng_info[5])
 {
-    eng_info[0] =  (eng_rpm & ((16-1) << 8)) >> 8;
+    eng_info[0] =  (eng_rpm & ((16-1) << 9)) >> 9;
     eng_info[1] = (eng_rpm & ((256-1) << 1)) >> 1;
     eng_info[2] = (eng_rpm & 1) << 7;
     eng_info[3] = eng_temp;
