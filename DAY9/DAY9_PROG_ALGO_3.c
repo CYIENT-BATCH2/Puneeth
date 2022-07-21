@@ -13,6 +13,14 @@ Switch status valueMeaning
 10switch is unbuckle
 11Fault type 2 in switch
 
+ALGORITHM
+1.Start 
+2. The values of various switch status and fault status of various switch are given
+the array is also with size 3
+3. using the  bitwise operation we can store the elements in the array index
+also print the binary value of all the array 
+4.Stop
+
 
 Input and Output : The elements of the array  G_Msg_switchstatus_Byte are :
 The decimal value of index G_Msg_switchstatus_Byte[0] is 12
@@ -21,6 +29,8 @@ The decimal value of index G_Msg_switchstatus_Byte[1] is 158
 The decimal value of index G_Msg_switchstatus_Byte[1] is 1 0 0 1 1 1 1 0 
 The decimal value of index G_Msg_switchstatus_Byte[2] is 64
 The decimal value of index G_Msg_switchstatus_Byte[2] is 0 1 0 0 0 0 0 0 
+
+
 
 */
 
